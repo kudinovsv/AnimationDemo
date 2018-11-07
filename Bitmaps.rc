@@ -1,0 +1,4 @@
+CANVASRG	BITMAP  .\bmp\CanvasRadioGroup.bmp
+WALKERRG	BITMAP  .\bmp\WalkerRadioGroup.bmp
+RADIODOT	BITMAP  .\bmp\RadioDot.bmp
+	
